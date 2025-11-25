@@ -157,6 +157,16 @@ Symptoms List:
 Emergency room check completed.
 ```
 
+#### 1. Screenshot of output  
+![Inserting Data into customers](https://github.com/KimGakuba/PL-SQL-work/blob/main/screenshots/output.png)
+
+---
+#### 2. Screenshot of records  
+![Inserting Data into customers](https://github.com/KimGakuba/PL-SQL-work/blob/main/screenshots/record.png)
+
+---
+
+
 ### ❌ Case 2: No symptoms entered
 
 ```
