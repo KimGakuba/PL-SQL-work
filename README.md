@@ -158,7 +158,7 @@ Emergency room check completed.
 ```
 
 #### 1. Screenshot of output  
-![Inserting Data into customers](https://github.com/KimGakuba/PL-SQL-work/blob/main/screenshots/output.png)
+![output](https://github.com/KimGakuba/PL-SQL-work/blob/main/screenshots/output.png)
 
 ---
 #### 2. Screenshot of records  
